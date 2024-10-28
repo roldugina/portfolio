@@ -1,6 +1,6 @@
-# Machine Learning Study Projects
+# Machine Learning Projects
 
-This repository showcases three study projects in machine learning. Each project focuses on different aspects and techniques of predictive modeling, aimed at building skills with ML tools.
+This repository showcases three projects in machine learning. Each project focuses on different aspects and techniques of predictive modeling, aimed at building skills with ML tools.
 
 ## Projects
 
