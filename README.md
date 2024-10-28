@@ -18,9 +18,9 @@ This repository showcases three projects in machine learning. Each project focus
     
 **3. Project 3: Sentiment Classification of Social Media Texts**
 
-  Tools and Libraries: NLTK, Scikit-learn, CountVectorizer.
-  Methods: Text processing, classification techniques (logistic regression, decision trees).
-  Description: The goal of this project is to develop a model for automatic classification of texts (positive, neutral, negative).
+  Tools and Libraries: NLTK, Scikit-learn, CountVectorizer.  
+  Methods: Text processing, classification techniques (logistic regression, decision trees).  
+  Description: The goal of this project is to develop a model for automatic classification of texts (positive, neutral, negative).  
 
 ### Contact
 
