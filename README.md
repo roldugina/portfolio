@@ -6,9 +6,9 @@ This repository showcases three projects in machine learning. Each project focus
 
 **1. Project 1: Bank Churn Prediction**
 
-  Description: Predicting whether a customer will continue using their account or close it (i.e., whether churn will occur) based on information about bank customers.
-  Tools and Libraries: Scikit-learn
-  Methods: logistic regression
+  Description: Predicting whether a customer will continue using their account or close it (i.e., whether churn will occur) based on information about bank customers.  
+  Tools and Libraries: Scikit-learn  
+  Methods: logistic regression  
 
 **2. Project 2: name**
 
