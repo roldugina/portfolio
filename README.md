@@ -12,8 +12,8 @@ This repository showcases three projects in machine learning. Each project focus
 
 **2. Project 2: Forecasting Product Sales Using Time Series Analysis Methods**
 
-  Description: Predicting product sales for 1 month using historical data
-  Tools and Libraries: statsmodels, darts
+  Description: Predicting product sales for 1 month using historical data  
+  Tools and Libraries: statsmodels, darts  
   Methods: XGBoost, Exponential Smoothing, Prophet, ARIMA, AutoARIMA, RNN
       
 **3. Project 3: Sentiment Classification of Social Media Texts**
